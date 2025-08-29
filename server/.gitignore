@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.idea/
+
+# OS-specific files
+.DS_Store
+.vscode/
+
+# Project-specific files
+# generated/
+# temp_output/
+# temp_input/
