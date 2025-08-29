@@ -1,0 +1,9 @@
+flask              # 웹 서버를 만들어주는 핵심 라이브러리
+flask-cors         # 앱에서 서버 접근을 허용(CORS 문제 해결)
+Pillow             # 이미지 처리용 (Image 열기, 필터 등)
+transformers       # HuggingFace 모델 로딩 (예: BLIP)
+diffusers          # ControlNet, StableDiffusion 등에 필요
+opencv-python      # 이미지 전처리/후처리에 유용 (추가로 가능)
+matplotlib         # 그래프, 차트, 그림 등을 생성하는 데 사용
+scipy              # 수학적 알고리즘과 유틸리티 함수를 제공하는 라이브러리
+scikit-image       # 이미지 처리 및 분석을 위한 오픈 소스 라이브러리 (segmentation)
